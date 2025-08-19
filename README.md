@@ -6,7 +6,7 @@ This project demonstrates how I containerized and deployed a Python/Django Notes
 
 ## 📌 Project Architecture
 
-![Architecture Diagram](./)
+![Architecture Diagram](k8s21)
 
 ---
 
